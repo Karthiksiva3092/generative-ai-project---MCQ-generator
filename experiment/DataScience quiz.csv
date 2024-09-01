@@ -1,0 +1,4 @@
+MCQ,Choices,Correct Answer
+What is the main difference between data science and data analysis?,"a: Data science focuses on structured data while data analysis focuses on unstructured data; b: Data science involves statistical, computational, and machine learning methods while data analysis involves examination and interpretation of data; c: Data science is more focused on patterns and trends while data analysis is more focused on predictive modeling; d: Data science and data analysis are essentially the same",b
+What is the role of a data scientist in the field of data management and analysis?,a: To only analyze existing data; b: To develop and implement predictive models; c: To focus on structured datasets only; d: To communicate findings to technical audiences only,b
+Which of the following is NOT a task typically involved in data analysis?,a: Data cleaning; b: Data visualization; c: Feature engineering; d: Exploratory data analysis,c
